@@ -2,7 +2,7 @@
 During my internship at GammaLab, I participated in the SQUAD competition with team and won the first place in the world.  [https://rajpurkar.github.io/SQuAD-explorer/](https://rajpurkar.github.io/SQuAD-explorer/)  
 This project is an exploration of Chinese machine reading comprehension and also a summary of my internship work.
 
-![squad](squad.png)
+![squad](pic/squad.png)
 
 
 
@@ -38,11 +38,11 @@ stroke-aware: Original method
 wordpiece-aware: Original method
 
 ## Analysis
-![](length.png)
-![](ansl.png)
-![](f11.png)
-![](f12.png)
-![](score.png)
+![](/pic/length.png)
+![](/pic/ansl.png)
+![](/pic/f11.png)
+![](/pic/f12.png)
+![](/pic/score.png)
 
 ## TODO
 + Update README.MD
