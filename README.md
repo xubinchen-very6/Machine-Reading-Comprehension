@@ -46,8 +46,8 @@ wordpiece-aware: Original method
 
 ## TODO
 - [x] Update README.MD
-- [] Update QANetBaseline
-- [] Update cw2vecs
-- [] Update stroke-aware language model
-- [] Update wordpiece-aware language model
-- [] Update Question Augument:FrameNet+Semi-CRF-RNN
+- [ ] Update QANetBaseline
+- [ ] Update cw2vecs
+- [ ] Update stroke-aware language model
+- [ ] Update wordpiece-aware language model
+- [ ] Update Question Augument:FrameNet+Semi-CRF-RNN
