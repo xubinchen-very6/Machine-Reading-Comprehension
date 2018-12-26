@@ -45,9 +45,9 @@ wordpiece-aware: Original method
 ![](/pic/score.png)
 
 ## TODO
-+ Update README.MD
-+ Update QANet
-+ Update cw2vec
-+ Update stroke-aware language model
-+ Update wordpiece-aware language model
-+ Update Question Augument:FrameNet+Semi-CRF-RNN
+- [x] Update README.MD
+- [] Update QANetBaseline
+- [] Update cw2vecs
+- [] Update stroke-aware language model
+- [] Update wordpiece-aware language model
+- [] Update Question Augument:FrameNet+Semi-CRF-RNN
