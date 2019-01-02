@@ -90,4 +90,4 @@ wordpiece-aware: Original method
 - [ ] Update cw2vecs
 - [ ] Update stroke-aware language model
 - [ ] Update wordpiece-aware language model
-- [ ] Update Question Augument:FrameNet+Semi-CRF-RNN
+- [ ] Update Question Augument:Syntactically Controlled Paraphrase Network
