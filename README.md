@@ -87,7 +87,7 @@ wordpiece-aware: Original method
 ## TODO
 - [x] Update README.MD
 - [x] Update QANetBaseline
-- [ ] Update cw2vecs
+- [ ] Update cw2vec
 - [ ] Update stroke-aware language model
 - [ ] Update wordpiece-aware language model
-- [ ] Update Question Augument:Syntactically Controlled Paraphrase Network
+- [ ] Update Question Augument:FrameNet + Valencer
