@@ -89,5 +89,5 @@ wordpiece-aware: Original method
 - [x] Update QANetBaseline
 - [ ] Update cw2vec
 - [ ] Update stroke-aware language model
-- [ ] Update wordpiece-aware language model
+- [x] Update wordpiece-aware language model
 - [ ] Update Question Augument:FrameNet + Open-sesame + Valencer
