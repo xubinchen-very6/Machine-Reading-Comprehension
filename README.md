@@ -91,4 +91,5 @@ wordpiece-aware: Original method
 - [ ] Update cw2vec
 - [ ] Update stroke-aware language model
 - [x] Update wordpiece-aware language model
+- [ ] Bert-Chinese 
 - [ ] Update Question Augument:FrameNet + Open-sesame + Valencer
