@@ -1,8 +1,3 @@
-# -*- coding: UTF-8 -*-
-# Python version: 3.6
-# Author: Danruo LYU
-# Last modified: 2018.06.07
-
 import re
 import jieba
 from disk_io import load_json, load_lines
