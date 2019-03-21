@@ -70,7 +70,7 @@ QANet96|49.25|76.82|41.93|73.68|88000
 QANet256|48.57|76.46|42.04|73.80|100000
 QANet256+cw2vec*|47.42|77.05|47.18|75.42|57000
 QANet256+stroke-aware*|47.79|77.07|47.62|76.44|59000
-QANet256+wordpiece-aware*|-|-|-|-|-
+QANet256+wordpiece-aware*|48.01|77.51|47.83|77.71|59000
 BERT-base|46.58|75.94|46.34|76.12|100000
 
 >cw2vec: Learning Chinese Word Embeddings with Stroke n-gram Information  
