@@ -88,8 +88,8 @@ wordpiece-aware: Original method
 ## TODO
 - [x] Update README.MD
 - [x] Update QANetBaseline
-- [ ] Update cw2vec
+- [ ] Update cw2vec(alibaba)
 - [ ] Update stroke-aware language model
 - [x] Update wordpiece-aware language model
-- [ ] Bert-Chinese 
+- [ ] Bert-Chinese
 - [ ] Update Question Augument:FrameNet + Open-sesame + Valencer
